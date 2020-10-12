@@ -7,6 +7,14 @@
   src: asset-url(font-path('SourceSansPro/SourceSansPro-LightItalic.ttf')) format('truetype');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
+/* IRYEKAN */
+@font-face {
+  font-family: 'IRYekan';
+  font-style: normal;
+  font-weight: 400;
+  src: asset-url(font-path('IRYekan/iryekanregular.ttf')) format('truetype');
+}
+
 /* cyrillic */
 @font-face {
   font-family: 'Source Sans Pro';
